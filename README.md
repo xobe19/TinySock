@@ -8,7 +8,7 @@ A small experiment to understand how to handle mutliple socket connections by wr
 
 * The websocket Handshake
 * Parsing Text Client Messages
-* Sending Messages to Client
+* Sending Messages to Client (long messages are also handled according to the RFC standard)
 
 ## TODO:
 
